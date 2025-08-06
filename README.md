@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # ✨ Hey, I'm Anushka Sambare
 
 💡 Computer science grad who loves turning raw data into *something real* — dashboards that talk back, visuals that spark questions, and stories that numbers alone can’t tell.
@@ -14,7 +14,7 @@ Power BI · Tableau · Python · SQL · Excel · DAX · Java · PHP · HTML/CSS/
 🌱 **Belief:**  
 Good analysis doesn’t live in spreadsheets — it lives in *decisions people actually make*.
 
-📍 Mumbai, India | [LinkedIn](https://linkedin.com/in/anushkasambare) | [Resume](#)
+📍 Mumbai, India | [LinkedIn](https://linkedin.com/in/anushkasambare) | <!--[Resume](#) -->
 
 ---
 
